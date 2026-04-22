@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
         "Im a femboy!",
-        "I like to play Minecraft!"
+        "I like to play with shreyansh on bed!"
       ]
     },
     "chat-log": true,
@@ -45,16 +44,16 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 4543234,
       "speed": 3000
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 50
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
