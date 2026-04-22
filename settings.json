@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100000,
       "messages": [
         "Im a femboy!",
         "I like to play with shreyansh on bed!"
@@ -73,10 +73,10 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "l",
+    "webhookUrl": "",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": false
     }
   },
