@@ -8,14 +8,14 @@
   "server": {
     "ip": "memeboi0311-yDA8.aternos.me",
     "port": 34457,
-    "version": "1.21.11",
+    "version": false,
     "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 6,
-    "y": 100,
-    "z": 9
+    "x":2496 ,
+    "y": 64,
+    "z": 225
   },
   "utils": {
     "auto-auth": {
