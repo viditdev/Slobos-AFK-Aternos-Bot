@@ -8,8 +8,8 @@
   "server": {
     "ip": "memeboi0311-yDA8.aternos.me",
     "port": 34457,
-    "version": false,
-    "try-creative": true
+    "version": 1.21.1,
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 100000,
+      "repeat-delay": 100,
       "messages": [
         "Im a femboy!",
         "I like to play with shreyansh on bed!"
@@ -57,18 +57,18 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
     "beds": true,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
+    "pick-up-day": false,
     "place-night": true
   },
   "discord": {
@@ -77,7 +77,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
